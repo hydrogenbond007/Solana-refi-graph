@@ -1,6 +1,6 @@
 - # Gainforest
   **Link** 
-  **Description:** Digital MRV + escrow account to drip funds once project is verified. We store your money for carbon offsets in a [[Solana]] escrow account and then release the money once the landowner has confirmed tree protection. When they stop, the money stops. We do digital MRV using AI on existing projects in carbon markets. 
+  **Description:** Digital [[MRV]] + escrow account to drip funds once project is verified. We store your money for carbon offsets in a [[Solana]] escrow account and then release the money once the landowner has confirmed tree protection. When they stop, the money stops. We do digital MRV using AI on existing projects in carbon markets. 
   **Founders**David Dao
   **Internal POC:**Amira
   **[[Solana]] Connection:**Built on [[Solana]]

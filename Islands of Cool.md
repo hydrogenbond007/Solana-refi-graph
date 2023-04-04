@@ -8,8 +8,9 @@
   
   
   **Founders**Leanne Bats
-  **Internal POC:**Amira
-  **[[Solana]] Connection:**Built on [[Solana]],[[Solana]] Foundation Grantee
-  **Status:**Not yet live
-  **Notes **
-  **Team Email**
+  Internal POC: Amira
+  [[Solana]] Connection: Built on [[Solana]],[[Solana]] Foundation Grantee
+  **Status:** Not yet live
+  Notes 
+  Team Email
+  
