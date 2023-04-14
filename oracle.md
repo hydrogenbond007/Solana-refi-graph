@@ -1,0 +1,2 @@
+> Oracles provide a way for the decentralized Web3 ecosystem to access existing [data sources](https://blog.chain.link/understanding-how-data-and-apis-power-next-generation-economies/), legacy systems, and advanced computations. Decentralized oracle networks (DONs) enable the creation of [hybrid smart contracts](https://blog.chain.link/hybrid-smart-contracts-explained/), where on-chain code and off-chain infrastructure are combined to support advanced decentralized applications (dApps) that react to real-world events and interoperate with traditional systems.
+

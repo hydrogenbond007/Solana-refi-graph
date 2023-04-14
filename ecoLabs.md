@@ -1,6 +1,6 @@
 - # ecoLabs
   **Link** https://www.esgdao.earth/
-  **Description:** Consumer-facing vehicle for environmental entities doing stuff in web3 and grow the IP to bring value to the community. NFT project that Dana said is awesome.
+  **Description:** Consumer-facing vehicle for environmental entities doing stuff in web3 and grow the IP to bring value to the community. [[NFT]] project that Dana said is awesome.
   **Founders**Kiro
   **Internal POC:**Amira
   **[[Solana]] Connection:**Deciding where to build

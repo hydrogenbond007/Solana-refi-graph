@@ -7,3 +7,5 @@
   **Status:**Not yet live
   **Notes **Going live the week of August 29
   **Team Email**
+
+https://yml.co/yml-launches-firewatch-solana-based-wildfire-project-employs-nfts-to-save

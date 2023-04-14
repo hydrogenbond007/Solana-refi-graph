@@ -1,6 +1,6 @@
 - # Serenade
   **Link** 
-  **Description:** Low carbon music NFT minter
+  **Description:** Low carbon music [[NFT]] minter
   **Founders**Max
   **Internal POC:**Amira
   **[[Solana]] Connection:**
